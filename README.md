@@ -1,10 +1,8 @@
 # MQM AI Evaluator — Releases / 安装包发布
 
 本仓库**只存放安装包与自动更新元数据**（`latest.yml`、`*.blockmap`），不包含源代码。
-源代码仓库：[MQM-AI-Evaluator](https://github.com/Ceativeman/MQM-AI-Evaluator)
 
 This repository hosts **installer artifacts and auto-update metadata only**.
-Source code: https://github.com/Ceativeman/MQM-AI-Evaluator
 
 ## 下载 / Download
 
@@ -20,5 +18,4 @@ https://gh-proxy.com/https://github.com/Ceativeman/MQM-AI-Evaluator-Release/rele
 ## 自动更新 / Auto-update
 
 应用内「检查更新」读取本仓库 `releases/latest/download/latest.yml` 检测新版本，
-并支持多个国内镜像测速与回退。发布新版本时，源仓库的 GitHub Actions
-（推送 `v*` 标签触发）会自动构建安装包并发布到本仓库。
+并支持多个国内镜像测速与回退。新版本由 GitHub Actions 自动构建并发布到本仓库。
