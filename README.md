@@ -1,9 +1,5 @@
 # MQM AI Evaluator — Releases / 安装包发布
 
-本仓库**只存放安装包与自动更新元数据**（`latest.yml`、`*.blockmap`），不包含源代码。
-
-This repository hosts **installer artifacts and auto-update metadata only**.
-
 ## 下载 / Download
 
 前往 [Releases](https://github.com/Ceativeman/MQM-AI-Evaluator-Release/releases/latest) 下载最新版 `MQM-AI-Evaluator-Setup-x.y.z.exe`。
